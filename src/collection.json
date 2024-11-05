@@ -1,0 +1,10 @@
+{
+  "$schema": "../node_modules/@angular-devkit/schematics/collection-schema.json",
+  "schematics": {
+    "x-prompt-list-issue": {
+      "description": "A blank schematic.",
+      "factory": "./x-prompt-list-issue/index#schematicsListIssue",
+      "schema": "./x-prompt-list-issue/schema.json"
+    }
+  }
+}
