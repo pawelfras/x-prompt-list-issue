@@ -1,5 +1,6 @@
 # x-prompt list issue
 
+
 This repository is a basic Schematic implementation that helps reproduce issue with default values for x-prompt when type is a list that occurs in @angular/cli version > v18.0.7.
 
 ### Testing
